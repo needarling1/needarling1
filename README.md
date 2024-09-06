@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm Alex, a student at UC Berkeley majoring in Math with an EECS minor. Here's some info about me!
+I'm Alex, a student at UC Berkeley majoring in Math with an EECS minor interested in software development. Here's some info about me!
 
 💻 Work Experience: 
   - **Intern --> Developer Analyst @ AHV Communities:** Internal Full-Stack Development for a Real Estate Development Company
