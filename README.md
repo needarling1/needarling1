@@ -9,4 +9,4 @@ I'm Alex, a student at UC Berkeley majoring in Math with an EECS minor intereste
 
 🙀 Personal:
   - Hobbies: Basketball, Pickleball, Hiking, Snowboarding, Mechanical Keyboards, Music
-  - Contact: akim217@berkeley.edu (feel free to ask me anything!)
+  - Contact: akim217@berkeley.edu
